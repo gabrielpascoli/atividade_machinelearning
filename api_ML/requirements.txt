@@ -1,0 +1,5 @@
+uvicorn
+pydentic
+pandas
+fastapi
+pycaret
